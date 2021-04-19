@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Published
 * Absentia: secure function evaluation on Ethereum <br/> 
 **Didem Demirag**, Jeremy Clark <br/> 
 WTSC 2021 (@ Financial Cryptography 2021) [[pdf]](https://users.encs.concordia.ca/~clark/papers/2021_wtsc.pdf) [[video]](https://www.youtube.com/watch?v=cOOQ8HhfxqU)
@@ -21,3 +22,7 @@ Communications of the ACM (via ACM Queue) [[pdf]](https://users.encs.concordia.c
 * One-Time Programs Made Practical <br/> 
 Lianying Zhao, Joseph I. Choi, **Didem Demirag**, Kevin R. B. Butler, Mohammad Mannan, Erman Ayday, and Jeremy Clark <br/> 
 Financial Cryptography 2019 [[pdf]](https://users.encs.concordia.ca/~clark/papers/2019_fc.pdf)
+
+## Master's Thesis
+Privacy-preserving data sharing and utilization between entities<br/> 
+Bilkent University, 2017. [[pdf]](http://repository.bilkent.edu.tr/bitstream/handle/11693/33532/Didem%20Demirag%20MSc%20Thesis.pdf?sequence=1)
