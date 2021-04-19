@@ -11,11 +11,11 @@ I am a PhD candidate at [CIISE](https://www.concordia.ca/ginacody/info-systems-e
 
 ## Education
 
-* Doctor of Philosophy, Information and Systems Engineering (2018 - 2022)
+* Doctor of Philosophy, Information and Systems Engineering (2018 - 2022) <br/> 
 Concordia University, Montreal, Quebec, Canada
 
-* Master of Science, Computer Engineering (2015 - 2017)
-Bilkent University, Ankara, Turkey
+* Master of Science, Computer Engineering (2015 - 2017) <br/> 
+Bilkent University, Ankara, Turkey 
 
-* Bachelor of Science, Computer Engineering (2009 - 2013)
+* Bachelor of Science, Computer Engineering (2009 - 2013) <br/> 
 Bilkent University, Ankara, Turkey
