@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Published
+
 * Absentia: secure function evaluation on Ethereum <br/> 
 **Didem Demirag**, Jeremy Clark <br/> 
-WTSC 2021 (@ Financial Cryptography 2021) [[pdf]](https://users.encs.concordia.ca/~clark/papers/2021_wtsc.pdf) [[video]](https://www.youtube.com/watch?v=cOOQ8HhfxqU)
+WTSC 2021 (@ Financial Cryptography 2021) [[pdf]](https://fc21.ifca.ai/wtsc/WTSC21paper4.pdf) [[video]](https://www.youtube.com/watch?v=cOOQ8HhfxqU)
 
 * Tracking the Invisible: Privacy-Preserving Contact Tracing to Control the Spread of a Virus <br/> 
 **Didem Demirag**, Erman Ayday <br/> 
@@ -17,7 +17,7 @@ DPM 2020 (@ ESORICS 2020) [[pdf]](https://link.springer.com/content/pdf/10.1007%
 
 * Demystifying Stablecoins <br/> 
 Jeremy Clark, **Didem Demirag**, Seyedehmahsa Moosavi 
-Communications of the ACM (via ACM Queue) [[pdf]](https://users.encs.concordia.ca/~clark/papers/2020_cacm_stable.pdf) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3466371)
+Communications of the ACM (via ACM Queue) [[pdf]](https://cacm.acm.org/magazines/2020/7/245698-demystifying-stablecoins/fulltext) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3466371)
 
 * One-Time Programs Made Practical <br/> 
 Lianying Zhao, Joseph I. Choi, **Didem Demirag**, Kevin R. B. Butler, Mohammad Mannan, Erman Ayday, and Jeremy Clark <br/> 
