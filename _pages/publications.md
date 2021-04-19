@@ -19,5 +19,5 @@ Jeremy Clark, **Didem Demirag**, Seyedehmahsa Moosavi
 Communications of the ACM (via ACM Queue) [[pdf]](https://users.encs.concordia.ca/~clark/papers/2020_cacm_stable.pdf) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3466371)
 
 * One-Time Programs Made Practical
-  Lianying Zhao, Joseph I. Choi, **Didem Demirag**, Kevin R. B. Butler, Mohammad Mannan, Erman Ayday, and Jeremy Clark
-  Financial Cryptography 2019 [[pdf]](https://users.encs.concordia.ca/~clark/papers/2019_fc.pdf)
+<p>Lianying Zhao, Joseph I. Choi, **Didem Demirag**, Kevin R. B. Butler, Mohammad Mannan, Erman Ayday, and Jeremy Clark</p>
+Financial Cryptography 2019 [[pdf]](https://users.encs.concordia.ca/~clark/papers/2019_fc.pdf)
