@@ -16,7 +16,7 @@ DPM 2020 (@ ESORICS 2020) [[pdf]](https://link.springer.com/content/pdf/10.1007%
 [[video]](https://www.youtube.com/watch?v=QMt7iXQKJO0)
 
 * Demystifying Stablecoins <br/> 
-Jeremy Clark, **Didem Demirag**, Seyedehmahsa Moosavi 
+Jeremy Clark, **Didem Demirag**, Seyedehmahsa Moosavi <br/> 
 Communications of the ACM (via ACM Queue) [[pdf]](https://cacm.acm.org/magazines/2020/7/245698-demystifying-stablecoins/fulltext) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3466371)
 
 * One-Time Programs Made Practical <br/> 
@@ -25,4 +25,4 @@ Financial Cryptography 2019 [[pdf]](https://users.encs.concordia.ca/~clark/paper
 
 ## Master's Thesis
 Privacy-preserving data sharing and utilization between entities<br/> 
-Bilkent University, 2017. [[pdf]](http://repository.bilkent.edu.tr/bitstream/handle/11693/33532/Didem%20Demirag%20MSc%20Thesis.pdf?sequence=1)
+Bilkent University, 2017 [[pdf]](http://repository.bilkent.edu.tr/bitstream/handle/11693/33532/Didem%20Demirag%20MSc%20Thesis.pdf?sequence=1)

@@ -14,5 +14,6 @@ CIISE, Concordia University, Montreal, Quebec, CANADA <br/>
 Supervisor: Dr. Jeremy Clark <br/> 
 
 * External reviewer <br/> 
-CCS 2016, Inscrypt 2016, NDSS 2017, Asia CCS 2017, PST (Privacy, Security and Trust) 2017 and FC20 
+FC20, NDSS 2017, Asia CCS 2017, PST (Privacy, Security and Trust) 2017, CCS 2016, Inscrypt 2016
+
 

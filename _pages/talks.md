@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * Absentia: secure function evaluation on Ethereum. <br/> 
-WTSC 2021 (@ Financial Cryptography 2021)[[video]](https://www.youtube.com/watch?v=cOOQ8HhfxqU)
+WTSC 2021 (@ Financial Cryptography 2021) [[video]](https://www.youtube.com/watch?v=cOOQ8HhfxqU)
 
 * Tracking the Invisible: Privacy-Preserving Contact Tracing to Control the Spread of a Virus <br/> 
 DPM 2020 (@ ESORICS 2020) [[video]](https://www.youtube.com/watch?v=QMt7iXQKJO0)
@@ -21,7 +21,7 @@ Blockchain Technology Symposium (BTS), Fields Institute, University of Toronto, 
 Blockscrum Meetup, January 2020
 
 * Absentia: Submit-and-go secure function evaluation <br/> 
-Secrev 2019, September 2019: [[video]](https://www.youtube.com/watch?time_continue=3&v=KwyOtY6RJ5E)
+Secrev 2019, September 2019 [[video]](https://www.youtube.com/watch?time_continue=3&v=KwyOtY6RJ5E)
 
 * Absentia: Submit-and-go secure function evaluation <br/> 
 Blockchain Technology Symposium (BTS), Fields Institute, University of Toronto, September 2018 [[video]](https://video-archive.fields.utoronto.ca/view/9443) 
