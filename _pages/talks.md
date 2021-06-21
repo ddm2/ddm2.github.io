@@ -4,8 +4,10 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+* Demystifying Stablecoins <br/> 
+FinteQC 2021 
 
-* Absentia: secure function evaluation on Ethereum. <br/> 
+* Absentia: secure function evaluation on Ethereum <br/> 
 WTSC 2021 (@ Financial Cryptography 2021) [[video]](https://www.youtube.com/watch?v=cOOQ8HhfxqU)
 
 * Tracking the Invisible: Privacy-Preserving Contact Tracing to Control the Spread of a Virus <br/> 
