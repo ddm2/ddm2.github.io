@@ -26,3 +26,8 @@ Financial Cryptography 2019 [[pdf]](https://users.encs.concordia.ca/~clark/paper
 ## Master's Thesis
 Privacy-preserving data sharing and utilization between entities<br/> 
 Bilkent University, 2017 [[pdf]](http://repository.bilkent.edu.tr/bitstream/handle/11693/33532/Didem%20Demirag%20MSc%20Thesis.pdf?sequence=1)
+
+## Other
+Opening sentences of research papers: How academics defeat the blinking cursor<br/> 
+**Didem Demirag**, Jeremy Clark
+[[Medium]](https://medium.com/madiba-security-group/opening-sentences-of-research-papers-35d0ef5d0241)
