@@ -7,7 +7,7 @@ author_profile: true
 
 I am passionate about learning languages. I speak 6 languages at various levels. My current focus is on French and Russian.
 
-I am also interested in literature and writing. I took a course on creative writing at Concordia University [[(CEJN116 Intro to Creative Writing)]](https://www.concordia.ca/cce/courses/details.html?subject=CEJN&catalog_number=116) where I had a chance to work on different aspects of fiction writing like character development and dialogues. 
+I am also interested in literature and writing. I took a course on creative writing at Concordia University [(CEJN116 Intro to Creative Writing)](https://www.concordia.ca/cce/courses/details.html?subject=CEJN&catalog_number=116) where I had a chance to work on different aspects of fiction writing like character development and dialogues. 
 
 # Languages
 Turkish (Native) <br/>
