@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+* Opening sentences in academic writing: How security researchers defeat the blinking cursor <br/> 
+**Didem Demirag**, Jeremy Clark <br/> 
+SIGCSE Technical Symposium 2022
 
 * Absentia: secure function evaluation on Ethereum <br/> 
 **Didem Demirag**, Jeremy Clark <br/> 
