@@ -11,7 +11,7 @@ I am a PhD candidate at [CIISE](https://www.concordia.ca/ginacody/info-systems-e
 
 ## Education
 
-* Doctor of Philosophy, Information and Systems Engineering (2018 - 2022) <br/> 
+* Doctor of Philosophy, Information and Systems Engineering (2018 - 2022(expected)) <br/> 
 Concordia University, Montreal, Quebec, Canada
 
 * Master of Science, Computer Engineering (2015 - 2017) <br/> 
