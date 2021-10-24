@@ -12,7 +12,7 @@ I am also interested in literature and writing. I took a course on creative writ
 # Languages
 Turkish (Native) <br/>
 English (Fluent) <br/>
-French (Finished level 6 at Concordia University) <br/>
+French (TEFAQ Compréhension orale: C1, Expression orale: B2) <br/>
 Russian (B1) <br/>
 German (Goethe-Zertifikat A2) <br/>
 Japanese (Beginner) <br/>
