@@ -11,7 +11,7 @@ DPM 2022 (@ ESORICS 2022) [[arxiv]](https://arxiv.org/pdf/2210.01297.pdf)
 
 * Mapping the Privacy Landscape for Central Bank Digital Currencies <br/> 
 Raphael Auer, Rainer Böhme, Jeremy Clark, **Didem Demirag** <br/> 
-Communications of the ACM (via ACM Queue) [[pdf]](https://queue.acm.org/detail.cfm?id=3561796)
+Communications of the ACM (via ACM Queue) [[pdf]](https://cacm.acm.org/magazines/2023/3/270207-mapping-the-privacy-landscape-for-central-bank-digital-currencies/abstract)
 
 * Opening sentences in academic writing: How security researchers defeat the blinking cursor <br/> 
 **Didem Demirag**, Jeremy Clark <br/> 
