@@ -7,7 +7,7 @@ author_profile: true
 
 * Privacy-Preserving Link Prediction <br/> 
 **Didem Demirag**, Mina Namazi, Erman Ayday, Jeremy Clark <br/> 
-DPM 2022 (@ ESORICS 2022) [[arxiv]](https://arxiv.org/pdf/2210.01297.pdf)
+DPM 2022 (@ ESORICS 2022) [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-25734-6_3)[[arxiv]](https://arxiv.org/pdf/2210.01297.pdf)
 
 * Mapping the Privacy Landscape for Central Bank Digital Currencies <br/> 
 Raphael Auer, Rainer Böhme, Jeremy Clark, **Didem Demirag** <br/> 
