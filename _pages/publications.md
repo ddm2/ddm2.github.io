@@ -32,7 +32,7 @@ Communications of the ACM (via ACM Queue) [[pdf]](https://cacm.acm.org/magazines
 
 * One-Time Programs Made Practical <br/> 
 Lianying Zhao, Joseph I. Choi, **Didem Demirag**, Kevin R. B. Butler, Mohammad Mannan, Erman Ayday, and Jeremy Clark <br/> 
-Financial Cryptography 2019 [[pdf]](https://users.encs.concordia.ca/~clark/papers/2019_fc.pdf)
+Financial Cryptography 2019 [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-32101-7_37) [[arxiv]](https://arxiv.org/pdf/1907.00935.pdf)
 
 ## Technical Report
 * Investigating the Use of Blockchain to Authenticate Data from the Statistics Canada Website <br/> 
