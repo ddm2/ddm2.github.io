@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+* Privacy-Preserving Link Prediction <br/> 
+**Didem Demirag**, Mina Namazi, Erman Ayday, Jeremy Clark <br/> 
+DPM 2022 (@ ESORICS 2022) [[arxiv]](https://arxiv.org/pdf/2210.01297.pdf)
+
+* Mapping the Privacy Landscape for Central Bank Digital Currencies <br/> 
+Raphael Auer, Rainer Böhme, Jeremy Clark, **Didem Demirag** <br/> 
+Communications of the ACM (via ACM Queue) [[pdf]](https://queue.acm.org/detail.cfm?id=3561796)
+
 * Opening sentences in academic writing: How security researchers defeat the blinking cursor <br/> 
 **Didem Demirag**, Jeremy Clark <br/> 
 SIGCSE Technical Symposium 2022
@@ -25,6 +33,11 @@ Communications of the ACM (via ACM Queue) [[pdf]](https://cacm.acm.org/magazines
 * One-Time Programs Made Practical <br/> 
 Lianying Zhao, Joseph I. Choi, **Didem Demirag**, Kevin R. B. Butler, Mohammad Mannan, Erman Ayday, and Jeremy Clark <br/> 
 Financial Cryptography 2019 [[pdf]](https://users.encs.concordia.ca/~clark/papers/2019_fc.pdf)
+
+## Technical Report
+* Investigating the Use of Blockchain to Authenticate Data from the Statistics Canada Website <br/> 
+Kathryn Fedchun, Lillian Klein and **Didem Demirag** [[pdf]](https://www150.statcan.gc.ca/n1/pub/11-633-x/11-633-x2022007-eng.htm)
+
 
 ## Master's Thesis
 Privacy-preserving data sharing and utilization between entities<br/> 
