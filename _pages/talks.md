@@ -12,7 +12,7 @@ Privacy-Preserving Link Prediction
 Using Blockchain to Authenticate Data From the Statistics Canada Website
 
 
-* Blockchain Technology Symposium, June 2022 <br\>
+* Blockchain Technology Symposium, June 2022 <br/>
 Using Blockchain to Authenticate Data From the Statistics Canada Website [[video]](https://www.youtube.com/watch?v=ccAuKLha-dQ)
 
 * FinteQC 2021 <br/> 
