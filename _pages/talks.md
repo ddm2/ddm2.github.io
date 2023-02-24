@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-* DPM 2022 (at ESORICS 2022) <br/> 
+* DPM 2022 (@ ESORICS 2022) <br/> 
 Privacy-Preserving Link Prediction
 
 * UNECE Expert Meeting on Dissemination and Communication of Statistics 2022 <br/> 
