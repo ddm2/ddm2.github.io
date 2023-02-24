@@ -5,6 +5,14 @@ permalink: /experience/
 author_profile: true
 ---
 
+* Postdoctoral researcher (January 2023 - present) <br/>
+UQAM, Montreal, Quebec, CANADA <br/>
+Supervisor: Dr. Sébastien Gambs
+
+* Collaborator (September 2021 - present) <br/>
+Statistics Canada <br/>
+[Investigating the Use of Blockchain to Authenticate Data from the Statistics Canada Website](https://www150.statcan.gc.ca/n1/pub/11-633-x/11-633-x2022007-eng.htm)
+
 
 * Intern (June 2019 - September 2020) <br/> 
 Autorité des marchés financiers , Montreal, Quebec, CANADA
