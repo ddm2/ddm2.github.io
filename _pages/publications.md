@@ -19,7 +19,7 @@ SIGCSE Technical Symposium 2022 [[pdf]](https://dl.acm.org/doi/10.1145/3478431.3
 
 * Absentia: secure function evaluation on Ethereum <br/> 
 **Didem Demirag**, Jeremy Clark <br/> 
-WTSC 2021 (@ Financial Cryptography 2021) [[pdf]](https://fc21.ifca.ai/wtsc/WTSC21paper4.pdf) [[video]](https://www.youtube.com/watch?v=cOOQ8HhfxqU)
+WTSC 2021 (@ Financial Cryptography 2021) [[pdf]](https://dl.acm.org/doi/abs/10.1007/978-3-662-63958-0_31) [[video]](https://www.youtube.com/watch?v=cOOQ8HhfxqU)
 
 * Tracking the Invisible: Privacy-Preserving Contact Tracing to Control the Spread of a Virus <br/> 
 **Didem Demirag**, Erman Ayday <br/> 
