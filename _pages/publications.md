@@ -38,6 +38,9 @@ Financial Cryptography 2019 [[pdf]](https://link.springer.com/chapter/10.1007/97
 * Investigating the Use of Blockchain to Authenticate Data from the Statistics Canada Website <br/> 
 Kathryn Fedchun, Lillian Klein and **Didem Demirag** [[pdf]](https://www150.statcan.gc.ca/n1/pub/11-633-x/11-633-x2022007-eng.htm)
 
+## Dissertation
+* Moving Multiparty Computation Forward for the Real World <br/> 
+Concordia University, 2022 [[pdf]](https://spectrum.library.concordia.ca/id/eprint/991286/1/Demirag_PhD_S2023.pdf)
 
 ## Master's Thesis
 Privacy-preserving data sharing and utilization between entities<br/> 

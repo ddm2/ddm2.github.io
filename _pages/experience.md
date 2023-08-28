@@ -9,7 +9,7 @@ author_profile: true
 UQAM, Montreal, Quebec, CANADA <br/>
 Supervisor: Dr. Sébastien Gambs
 
-* Collaborator (September 2021 - present) <br/>
+* Collaborator (September 2021 - December 2022) <br/>
 Statistics Canada <br/>
 [Investigating the Use of Blockchain to Authenticate Data from the Statistics Canada Website](https://www150.statcan.gc.ca/n1/pub/11-633-x/11-633-x2022007-eng.htm)
 
