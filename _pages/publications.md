@@ -43,10 +43,10 @@ Kathryn Fedchun, Lillian Klein and **Didem Demirag** [[pdf]](https://www150.stat
 Concordia University, 2022 [[pdf]](https://spectrum.library.concordia.ca/id/eprint/991286/1/Demirag_PhD_S2023.pdf)
 
 ## Master's Thesis
-Privacy-preserving data sharing and utilization between entities<br/> 
+* Privacy-preserving data sharing and utilization between entities<br/> 
 Bilkent University, 2017 [[pdf]](http://repository.bilkent.edu.tr/bitstream/handle/11693/33532/Didem%20Demirag%20MSc%20Thesis.pdf?sequence=1)
 
 ## Other
-Opening sentences of research papers: How academics defeat the blinking cursor<br/> 
+* Opening sentences of research papers: How academics defeat the blinking cursor<br/> 
 **Didem Demirag**, Jeremy Clark
 [[Medium]](https://medium.com/madiba-security-group/opening-sentences-of-research-papers-35d0ef5d0241)
