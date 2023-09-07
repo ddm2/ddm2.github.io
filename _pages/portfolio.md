@@ -16,5 +16,5 @@ Turkish (Native) <br/>
 English (Fluent) <br/>
 French (TEFAQ Compréhension orale: C1, Expression orale: B2) <br/>
 Russian (B1) <br/>
-German (Goethe-Zertifikat A2) <br/>
+German (B1.1) <br/>
 Japanese (Beginner) <br/>
