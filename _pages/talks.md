@@ -4,6 +4,8 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+* Journée thématique: Tour d'horizon sur le Web 3.0, octobre 2023 <br/> 
+Table ronde – Des défis et réglementations du web 3.0 [[video]](https://www.youtube.com/watch?v=8nvAuGn6AxU)
 
 * DPM 2022 (@ ESORICS 2022) <br/> 
 Privacy-Preserving Link Prediction
@@ -16,16 +18,16 @@ Using Blockchain to Authenticate Data From the Statistics Canada Website
 Using Blockchain to Authenticate Data From the Statistics Canada Website [[video]](https://www.youtube.com/watch?v=ccAuKLha-dQ)
 
 * FinteQC 2021 <br/> 
- Demystifying Stablecoins
+Demystifying Stablecoins
 
 * WTSC 2021 (@ Financial Cryptography 2021) <br/> 
 Absentia: secure function evaluation on Ethereum [[video]](https://www.youtube.com/watch?v=cOOQ8HhfxqU)
 
 * DPM 2020 (@ ESORICS 2020) <br/> 
- Tracking the Invisible: Privacy-Preserving Contact Tracing to Control the Spread of a Virus[[video]](https://www.youtube.com/watch?v=QMt7iXQKJO0)
+Tracking the Invisible: Privacy-Preserving Contact Tracing to Control the Spread of a Virus[[video]](https://www.youtube.com/watch?v=QMt7iXQKJO0)
 
 * Decentralized Web Montreal Meetup, May 2020 <br/> 
- Demystifying Stablecoins [[video]](https://www.youtube.com/watch?v=VplnuXoT1OI&feature=emb_title)
+Demystifying Stablecoins [[video]](https://www.youtube.com/watch?v=VplnuXoT1OI&feature=emb_title)
 
 * Blockchain Technology Symposium (BTS), February 2020 <br/> 
 Demystifying Stablecoins [[video]](https://www.youtube.com/watch?v=9IPlG4JiL-k&feature=youtu.be)
