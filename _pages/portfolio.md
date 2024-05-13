@@ -14,7 +14,7 @@ I am also interested in watercolour painting and graphic design. I took Graphic 
 # Languages
 Turkish (Native) <br/>
 English (Fluent) <br/>
-French (TEFAQ Compréhension orale: C1, Expression orale: B2) <br/>
+French (Fluent) <br/>
 Russian (B2) <br/>
 German (B1.1) <br/>
 Japanese (Beginner) <br/>
