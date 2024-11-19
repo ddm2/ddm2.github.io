@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+* Towards Privacy-preserving and Fairness-aware Federated Learning Framework <br/> 
+Adda-Akram Bendoukha, **Didem Demirag**, Nesrine Kaaniche, Aymen Boudguiga, Renaud Sirdey, Sébastien Gambs <br/> 
+PETS 2025 [[pdf]](https://petsymposium.org/popets/2025/popets-2025-0044.pdf)
+
 * Privacy-Preserving Link Prediction <br/> 
 **Didem Demirag**, Mina Namazi, Erman Ayday, Jeremy Clark <br/> 
 DPM 2022 (@ ESORICS 2022) [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-25734-6_3)[[arxiv]](https://arxiv.org/pdf/2210.01297.pdf)

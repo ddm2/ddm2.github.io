@@ -4,6 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+## UQAM
+* Chargée de cours <br/>
+[(INM6000 - Informatique et société)] (https://info.uqam.ca/plan_cours/Automne%202024/INM6000.html) <br/>
 
 ## Concordia University
 * Marker, Winter 2022 <br/>
