@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 ## UQAM
-* Chargée de cours <br/>
+* Chargée de cours, Automne 2024 <br/>
 [INM6000 - Informatique et société](https://info.uqam.ca/plan_cours/Automne%202024/INM6000.html) <br/>
 
 ## Concordia University
