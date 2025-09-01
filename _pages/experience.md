@@ -4,8 +4,10 @@ title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
+* Chargée de cours (September 2024 - present) <br/>
+[INM6000 - Informatique et société](https://info.uqam.ca/plan_cours/Automne%202024/INM6000.html) <br/>
 
-* Postdoctoral researcher (January 2023 - present) <br/>
+* Postdoctoral researcher (January 2023 - July 2025) <br/>
 UQAM, Montreal, Quebec, CANADA <br/>
 Supervisor: Dr. Sébastien Gambs
 
