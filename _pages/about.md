@@ -13,8 +13,8 @@ I teach and design university-level courses. I hold a PhD in Information and Sys
 Take a look at my graphic design portfolio [here](http://behance.net/didemdemirag).
 
 ## Education
-* Diploma, Graphic Design (2022-2024)
-Concordia Continuing Education, Montreal, Quebec, Canada <br/> 
+* Diploma, Graphic Design (2022-2024) <br/> 
+Concordia Continuing Education, Montreal, Quebec, Canada 
 
 * Doctor of Philosophy, Information and Systems Engineering (2018 - 2022) <br/> 
 Concordia University, Montreal, Quebec, Canada
